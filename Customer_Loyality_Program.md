@@ -6,7 +6,7 @@ A customer loyalty program is what drives the customers to return the packaging 
 
 The NFC tag containing the campaign URL will be placed behind the following image on the package. 
 
-![](Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.022.png)
+![](Images/Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.022.png)
 
 ## Steps to redeem the rewards
 
