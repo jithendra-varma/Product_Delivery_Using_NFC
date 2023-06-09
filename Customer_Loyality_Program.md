@@ -74,10 +74,10 @@ This login page will be opened with the delivery persons account now click on st
 
 After scanning the customer QR code his account can be accessed by the delivery person he now can assign points to the customer based on the packaging returned by the customer. Now the customer needs to select the points to be assigned and then he should click on submit.
 
-![](Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.032.jpeg)
+![](Images/Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.032.jpeg)
 
 ## Confirming the rewards points assignment
 
 After assigning the points to the customer. The delivery person needs to confirm the assignment once more such that the assignment of reward points is double verified. Once it is confirmed then the points will be reflected in the customer’s account.
 
-![](Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.033.jpeg)
+![](Images/Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.033.jpeg)
