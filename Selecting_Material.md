@@ -6,12 +6,12 @@ So bio-pp is a bio alternative of polypropylene. Bio-based polypropylene is a po
 
 ## Polypropylene Boxes
 
-![Polypropylene Boxes](Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.010.jpeg)
+![Polypropylene Boxes](Images/Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.010.jpeg)
 
 Polypropylene (PP), also known as polypropene, is a thermoplastic polymer used in a wide variety of applications. It is produced via chain-growth polymerization from the monomer propylene.
 
 ## Polypropene
 
-![Polypropene](Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.011.png)
+![Polypropene](Images/Aspose.Words.c332127a-1b76-4b79-b803-9d6ae9d207a1.011.png)
 
 Polypropylene belongs to the group of polyolefins and is partially crystalline and non-polar. Its properties are similar to polyethylene, but it is slightly harder and more heat resistant. It is a white, mechanically rugged material and has a high chemical resistance. Polypropylene is the second-most widely produced commodity plastic (after polyethylene). In 2019, the global market for polypropylene was worth $126.03 billion. Revenues are expected to exceed US$145 billion by 2019. The sales of this material are forecast to grow at a rate of 5.8% per year until 2021. 
